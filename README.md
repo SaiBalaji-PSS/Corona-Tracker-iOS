@@ -1,4 +1,6 @@
-# Corona-Tracker-iOS <img src="https://img.shields.io/badge/Platform-iOS-blue" alt="iOS">
+# Corona-Tracker-iOS 
+<img src="https://img.shields.io/badge/Platform-iOS-blue" alt="iOS"> 
+<img src="https://img.shields.io/badge/Language-Swift-orange" alt="Swift">
 
 A tracker app which uses data from  this https://github.com/ExpDev07/coronavirus-tracker-api API and present it in map using Mapkit 
 
